@@ -1,0 +1,54 @@
+
+/* Class = "IBUILabel"; text = "OTP"; ObjectID = "3hN-dN-B5Z"; */
+"3hN-dN-B5Z.text" = "OTP";
+
+/* Class = "IBUIButton"; normalTitle = "Generate OTP"; ObjectID = "FJw-v8-9Ba"; */
+"FJw-v8-9Ba.normalTitle" = "Generate OTP";
+
+/* Class = "IBUIButton"; normalTitle = "Generate OTP"; ObjectID = "H1Z-Xb-bvj"; */
+"H1Z-Xb-bvj.normalTitle" = "Generate OTP";
+
+/* Class = "IBUILabel"; text = "OTP for USER:"; ObjectID = "NmD-A5-e3z"; */
+"NmD-A5-e3z.text" = "OTP for USER:";
+
+/* Class = "IBUIButton"; normalTitle = "Change PIN"; ObjectID = "P7N-6h-2Q8"; */
+"P7N-6h-2Q8.normalTitle" = "Change PIN";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "QBq-g6-h3b"; */
+"QBq-g6-h3b.normalTitle" = "Cancel";
+
+/* Class = "IBUILabel"; text = "Old Pin"; ObjectID = "QTg-hZ-NnR"; */
+"QTg-hZ-NnR.text" = "Old Pin";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "TGu-dn-hxI"; */
+"TGu-dn-hxI.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Log In"; ObjectID = "XyI-NX-GI2"; */
+"XyI-NX-GI2.normalTitle" = "Log In";
+
+/* Class = "IBUILabel"; text = "Confirm Pin"; ObjectID = "dWk-hB-Y6B"; */
+"dWk-hB-Y6B.text" = "Confirm Pin";
+
+/* Class = "IBUILabel"; text = "User"; ObjectID = "fzJ-2t-g3H"; */
+"fzJ-2t-g3H.text" = "User";
+
+/* Class = "IBUILabel"; text = "New Pin"; ObjectID = "hsj-V6-Urq"; */
+"hsj-V6-Urq.text" = "New Pin";
+
+/* Class = "IBUILabel"; text = "Please enter your PIN to Login"; ObjectID = "jgY-vh-XmT"; */
+"jgY-vh-XmT.text" = "Please enter your PIN to Login";
+
+/* Class = "IBUIButton"; normalTitle = "Change PIN"; ObjectID = "lgf-n8-wAZ"; */
+"lgf-n8-wAZ.normalTitle" = "Change PIN";
+
+/* Class = "IBUIButton"; normalTitle = "Scan Code"; ObjectID = "lhL-yH-KKx"; */
+"lhL-yH-KKx.normalTitle" = "Scan Code";
+
+/* Class = "IBUIButton"; normalTitle = "Log Out"; ObjectID = "mIT-mh-fPm"; */
+"mIT-mh-fPm.normalTitle" = "Log Out";
+
+/* Class = "IBUIButton"; normalTitle = "Cancel"; ObjectID = "tjT-PK-8C1"; */
+"tjT-PK-8C1.normalTitle" = "Cancel";
+
+/* Class = "IBUIButton"; normalTitle = "Register OTP"; ObjectID = "toZ-Nl-xTr"; */
+"toZ-Nl-xTr.normalTitle" = "Register OTP";
